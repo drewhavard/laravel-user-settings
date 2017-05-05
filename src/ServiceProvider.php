@@ -1,6 +1,6 @@
 <?php
 
-namespace Grimthorr\LaravelUserSettings;
+namespace DrewHavard\LaravelUserSettings;
 
 
 class ServiceProvider extends \Illuminate\Support\ServiceProvider {

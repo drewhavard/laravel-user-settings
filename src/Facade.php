@@ -1,6 +1,6 @@
 <?php
 
-namespace Grimthorr\LaravelUserSettings;
+namespace DrewHavard\LaravelUserSettings;
 
 
 class Facade extends \Illuminate\Support\Facades\Facade {
