@@ -35,7 +35,7 @@ class ServiceProvider extends \Illuminate\Support\ServiceProvider {
      */
     public function register()
     {
-        $this->app->singleton('setting', 'Grimthorr\LaravelUserSettings\Setting');
+        $this->app->singleton('setting', 'DrewHavard\LaravelUserSettings\Setting');
 
         $this->mergeConfigFrom(
             __DIR__.'/../config/config.php', 'laravel-user-settings'
